@@ -1,0 +1,9 @@
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\Herencia\bin\Debug\Herencia.exe
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\Herencia\obj\Debug\Herencia.exe
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Amilcar Henriquez\Desktop\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Amilcar Henriquez\Desktop\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Amilcar Henriquez\Desktop\Herencia\Herencia\obj\Debug\Herencia.pdb
